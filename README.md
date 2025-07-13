@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sai Kiran Boddupally
+## Hi 👋 I'm Sai Kiran Boddupally
 ## I'm a Full Stack Java Developer 🤖
 
 ### 🛠️ Tech Stack
