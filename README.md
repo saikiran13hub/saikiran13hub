@@ -2,7 +2,7 @@
 ## Full Stack Java Developer 🤖
 
 ### 🛠️ Tech Stack
-- 🔹 **Frontend**: HTML, CSS, JavaScript, React.js
+- 🔹 **Frontend**: HTML, CSS, JavaScript
 - 🔹 **Backend**: Java, Spring Boot, Hibernate 
 - 🔹 **Database**: SQL, PostgreSQL
 - 🔹 **Tools**: Git, VS Code
