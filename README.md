@@ -8,4 +8,4 @@
 - 🔹 **Tools**: Git, VS Code
 ### 📫 Let's Connect
 - 📧 Email: saikiran19084@gmail.com 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saikiran-boddupally-826552318)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sai-kiran-boddupally-826552318/)
